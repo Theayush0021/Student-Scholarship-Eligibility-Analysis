@@ -60,7 +60,7 @@ The IF function automatically determines the scholarship status based on the tes
 
 - Microsoft Excel
 
-## 👨‍💻 Author
+## 👨‍💻 Author##
 
 **Ayush Kaushik**
 

@@ -1,4 +1,4 @@
-# Student Scholarship Eligibility Analysis    
+# Student Scholarship Eligibility Analysis.     
 
 ## 📌 Project Overview
 
